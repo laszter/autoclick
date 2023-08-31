@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['main.py'],
+    ['autoclick.py'],
     pathex=[],
     binaries=[],
     datas=[('icon.ico', '.')],
